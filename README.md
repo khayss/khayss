@@ -2,15 +2,17 @@
 
 I am a passionate blockchain/fullstack developer, passionate about building cool and useful solutions for the new internet - web3.
 
+<!--
 ![khayss' Stats](https://github-readme-stats.vercel.app/api?username=khayss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently perfecting my skills with Rust, Typescript, and building resilient backends and web3 applications.
-
+-->
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,rust,solidity,mongodb,postgres,redis)](https://skillicons.dev)
 
+<!--
 ## 🌱 Currently Exploring
 
 - 🚀 Enjoying Full Stack Web Development
@@ -29,7 +31,7 @@ I am a passionate blockchain/fullstack developer, passionate about building cool
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-
+-->
 
 <!--
 
