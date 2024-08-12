@@ -17,7 +17,7 @@ I am a passionate blockchain/fullstack developer, passionate about building cool
   - Exploring decentralized applications development.
   - Building user-friendly frontend with NextJS and React.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Rust, Typescript, and Javascript.
+  - Building resilient server-side applications with Rust, Typescript, and Javascript.
   - Diving into PostgreSQL for efficient and scalable database management.
 
 
