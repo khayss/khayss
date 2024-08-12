@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zekondorder
-- 👀 I’m interested in ... Crypto, Engineering, Simulation, Gaming, Trading
-- 🌱 I’m currently learning ... Engineering and Simulation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @khayss
+- 👀 I’m interested in web3, blockchain, and decentralization.
+- 🌱 I’m currently learning Solidity and Rust.
+- 💞️ I’m looking to collaborate on Web3 and blockchain projects.
+- 📫 How to reach me - forendals@gmail.com
 
 <!---
 zekondorder/zekondorder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
