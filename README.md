@@ -10,7 +10,7 @@ I build on a normal day.
 - 🔭 Exploring web3
 -->
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,rust,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,solidity)](https://skillicons.dev)
 
 <!--
 ## 🌱 Currently Exploring
