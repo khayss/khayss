@@ -1,6 +1,6 @@
 # Hi, I'm Kufre Samuel! 👋
 
-I am a passionate blockchain / fullstack developer,  building cool and useful solutions for the new internet - web3.
+I build on a normal day.
 
 <!--
 ![khayss' Stats](https://github-readme-stats.vercel.app/api?username=khayss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
