@@ -7,10 +7,10 @@ I am a passionate blockchain / fullstack developer,  building cool and useful so
 
 ## 🚀 About Me
 
-- 🔭 I'm currently perfecting my skills with Rust, Typescript, and building resilient backends and web3 applications.
+- 🔭 Exploring web3
 -->
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,rust,solidity,mongodb,postgres,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,solidity)](https://skillicons.dev)
 
 <!--
 ## 🌱 Currently Exploring
